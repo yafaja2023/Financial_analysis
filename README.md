@@ -160,9 +160,7 @@ After completing the analysis, summarize your actual findings here.
 
 ## 🖼️ Dashboard Preview
 
-```markdown
 ![Financial Sample Power BI Dashboard](images/financial-dashboard.png)
-```
 
 ## 📂 Project Structure
 
